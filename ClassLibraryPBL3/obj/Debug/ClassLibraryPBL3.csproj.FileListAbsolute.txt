@@ -1,0 +1,8 @@
+C:\Users\rynth\OneDrive\Desktop\4\PBL3\WindowsFormsPBL3\ClassLibraryPBL3\bin\Debug\ClassLibraryPBL3.dll
+C:\Users\rynth\OneDrive\Desktop\4\PBL3\WindowsFormsPBL3\ClassLibraryPBL3\bin\Debug\ClassLibraryPBL3.pdb
+C:\Users\rynth\OneDrive\Desktop\4\PBL3\WindowsFormsPBL3\ClassLibraryPBL3\obj\Debug\ClassLibraryPBL3.csprojAssemblyReference.cache
+C:\Users\rynth\OneDrive\Desktop\4\PBL3\WindowsFormsPBL3\ClassLibraryPBL3\obj\Debug\ClassLibraryPBL3.UserControlMain.resources
+C:\Users\rynth\OneDrive\Desktop\4\PBL3\WindowsFormsPBL3\ClassLibraryPBL3\obj\Debug\ClassLibraryPBL3.csproj.GenerateResource.cache
+C:\Users\rynth\OneDrive\Desktop\4\PBL3\WindowsFormsPBL3\ClassLibraryPBL3\obj\Debug\ClassLibraryPBL3.csproj.CoreCompileInputs.cache
+C:\Users\rynth\OneDrive\Desktop\4\PBL3\WindowsFormsPBL3\ClassLibraryPBL3\obj\Debug\ClassLibraryPBL3.dll
+C:\Users\rynth\OneDrive\Desktop\4\PBL3\WindowsFormsPBL3\ClassLibraryPBL3\obj\Debug\ClassLibraryPBL3.pdb
